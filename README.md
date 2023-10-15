@@ -4,10 +4,8 @@
   <a href="https://github.com/her3ticAVI/TITANII"><img src="./images/banner.png" alt="TITANII"></a>
   <br>
   <br>
+  TITAN II is an exploitation tool, C2, and Red Teaming tool that I have created in order to allow myself more mobillity and less critical thinking. Automating the hard things like DC Sync's Kerberoasts etc.
 </h1>
-
-  
-TITAN II is an exploitation tool, C2, and Red Teaming tool I created in order to allow myself more mo
 
 In progress eta August 2024
 
