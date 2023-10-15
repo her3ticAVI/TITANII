@@ -90,3 +90,6 @@ admins to manage users, there usage, and permissions on the platform.
 
 UPDATE: Progress is 50% done and rising. Screenshots will be out soon.
 In progress eta August 2024
+
+## Creator
+Ben Bowman | her3ticAVI
