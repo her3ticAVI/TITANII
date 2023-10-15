@@ -17,7 +17,8 @@ Home
 <br>
 
 ```
-The Home panel creates an easy to read layout of the attack platform including hosts discovered, exploited, uptime, etc.
+The Home panel creates an easy to read layout of the attack
+platform including hosts discovered, exploited, uptime, etc.
 ```
 <br>
 Network
