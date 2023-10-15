@@ -2,7 +2,7 @@
 <h1 align="center">
   <br>
   <a href="https://github.com/her3ticAVI/TITANII"><img src="./images/banner.png" alt="TITANII"></a>
-  <h3>Exploitation Framework</h3>
+  <h3><center>Exploitation Framework</center></h3>
   <br>
   <br>
 
