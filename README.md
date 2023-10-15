@@ -10,7 +10,8 @@
 ```TITAN II is an exploitation tool, C2, and Red Teaming tool that I have created in order to allow myself more mobillity and less critical thinking. Automating the hard things like DC Sync's Kerberoasts etc.```
 
 ### Features
-```TITAN II allows for remote usage from anywhere in the world. You can host it locally with a tunnel or on a remote C2 server```
+<br>
+<br>
 <br>
 Home
 <br>
