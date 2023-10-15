@@ -1,7 +1,10 @@
-
-
-# TITAN II
-### Exploitation Framework
+<span style="background:black">
+<h1 align="center">
+  <br>
+  <a href="https://github.com/her3ticAVI/TITANII"><img src="./images/banner.png" alt="TITANII"></a>
+  <h3>Exploitation Framework</h3>
+  <br>
+  <br>
 
 TITAN II is an exploitation tool, C2, and Red Teaming tool I created in order to allow myself more mo
 
