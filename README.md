@@ -10,13 +10,16 @@
 ```TITAN II is an exploitation tool, C2, and Red Teaming tool that I have created in order to allow myself more mobillity and less critical thinking. Automating the hard things like DC Sync's Kerberoasts etc.```
 
 ### Features
+<br>
 Home
 <br>
+
 ```
 The Home panel creates an easy to read layout of the attack platform including hosts discovered, exploited, uptime, etc.
 ```
 <br>
 Network
+<br>
 
 ```
 The Network Panel is a network scanner that allows for the silent or aggressive
@@ -24,14 +27,17 @@ scanning of a network taking the commands out of the mix allowing for a quick an
 ```
 <br>
 Hosts
+<br>
 
 ```
 The Hosts tab allows you to import discovered hosts from the Network panel and attack them,
 creating an easy to understand at a glance work space without sparing any important information.
 Quick click button shortcuts to utilize post exploitation modules.
 ```
-
+<br>
 Exploits
+<br>
+
 ```
 The Exploits panel is where all the exploits are stored,
 TITAN II is created in a way that allows for easy POC
