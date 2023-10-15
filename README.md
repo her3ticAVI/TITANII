@@ -7,7 +7,7 @@
 </h1>
 
 ### Overview
-```TITAN II is an exploitation tool, C2, and Red Teaming tool that I have created in order to allow myself more mobillity and less critical thinking. Automating the hard things like DC Sync's Kerberoasts etc.```
+TITAN II is an exploitation tool, C2, and Red Teaming tool that I have created in order to allow myself more mobillity and less critical thinking. Automating the hard things like DC Sync's Kerberoasts etc.
 
 ### Features
 <br>
