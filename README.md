@@ -56,7 +56,7 @@ payloads on the C2 allowing for persistence, hashdumping, and a numerous
 amount of other eye catching C2 features. Macro injection, AV evasion, and more.
 ```
 <br>
-Home
+CLI
 <br>
 
 ```
