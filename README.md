@@ -2,8 +2,6 @@
 <h1 align="center">
   <br>
   <a href="https://github.com/her3ticAVI/TITANII"><img src="./images/banner.png" alt="TITANII"></a>
-  <br>
-  <br>
 </h1>
 
 ## Overview
