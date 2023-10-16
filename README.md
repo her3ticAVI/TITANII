@@ -79,9 +79,15 @@ Settings
 The Settings panel helps users change there passwords, manage tunneling to the WebApp, and for
 admins to manage users, there usage, and permissions on the platform.
 ```
+## Usage
 
+```
 UPDATE: Progress is 50% done and rising. Screenshots will be out soon.
 In progress eta August 2024
+```
+```
+No instructions will be posted until release.
+```
 
 ## Creator
 Ben Bowman | her3ticAVI
