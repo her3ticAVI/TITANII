@@ -14,7 +14,6 @@ more mobillity and less critical thinking. Automating the hard things like DC Sy
 
 ### Features
 Home
-<br>
 
 ```
 The Home panel creates an easy to read layout of the attack
