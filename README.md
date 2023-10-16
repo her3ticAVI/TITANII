@@ -1,7 +1,6 @@
 <span style="background:white">
 <h1 align="center">
   <br>
-  <a href="https://github.com/her3ticAVI/TITANII"><img src="./images/banner.png" alt="TITANII"></a>
   <br>
   https://img.shields.io/github/stars/her3ticAVI/TITANII?logo=github&logoColor=white
   <br>
