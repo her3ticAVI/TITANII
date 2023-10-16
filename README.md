@@ -89,5 +89,9 @@ In progress eta August 2024
 No instructions will be posted until release.
 ```
 
+## Liscence
+
+![License](https://img.shields.io/github/license/her3ticAVI/TITANII?style=for-the-badge)
+
 ## Creator
 Ben Bowman | her3ticAVI
