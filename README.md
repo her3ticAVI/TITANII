@@ -56,15 +56,13 @@ The CLI panel is a CLI interactive panel allowing for a user to interact with th
 bare-metal host that is running the TITAN II C2 server.
 ```
 
-Chatroom
+Webooks
 
 ```
-The Chatroom panel is a panel that allows for multiple pentesters to use the tool
-at one time and keeping communications centralized in one tool. A one stop shop for
-any good Red Team engagement. Inlcuding sharing scan files, exploited machiones, etc. Uses PGP.
+The Webhooks panel is a feature of Ducky Scripts that allow the return of loot from Bad USB scripts.
 ```
 
-Ducky-Scripts
+BadUSB-Scripts
 
 ```
 The Duck-Scripts panel is a panel that allows for the quick deployment of pre-created duckscripts
