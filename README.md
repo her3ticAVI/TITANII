@@ -78,7 +78,7 @@ admins to manage users, there usage, and permissions on the platform.
 ## Usage
 
 ```
-UPDATE: Progress is 50% done and rising. Screenshots will be out soon.
+UPDATE: Progress is 70% done and rising. Screenshots will be out soon.
 In progress eta August 2024
 ```
 ```
