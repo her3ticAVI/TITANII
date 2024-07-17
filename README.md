@@ -78,8 +78,11 @@ admins to manage users, there usage, and permissions on the platform.
 ## Usage
 
 ```
-UPDATE: Progress is 70% done and rising. Screenshots will be out soon.
-In progress eta August 2024
+UPDATE: Progress is 50% done and rising.
+I got busy and burnt out but am back at it.
+not sure when ill have it done, added a bunch of new features. sanding aesthetics etc
+bloodhound, sccm, ntlm and other cool network attack stuff, add petite potam and adcs priv esc stuff, one click to auto esc to Domain Admin 99% of the time using probabillity math. Cool stuff
+added psexec, dcom, and other impacket libraries for local network connections as well as your typical https payload handler con for over the internet.
 ```
 ```
 No instructions will be posted until release.
